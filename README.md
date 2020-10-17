@@ -1,5 +1,5 @@
 # Отчет о лабораторных работах
-# студент группы [ИДБ-17-06](https://github.com/stankin/design-2018/wiki/list-idb-15-xx) Молдобаев И.С.
+# студент группы [ИДБ-17-06](https://github.com/stankin/design-part-1/wiki/list-idb-17-06) Молдобаев И.С.
 
 ## Лабораторная 1
 
