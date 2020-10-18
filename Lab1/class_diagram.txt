@@ -1,0 +1,12 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "Kitchener" as P {
+ Kitchen tools
+ Cook (Products, Recipe): borscht
+}
+hide circle
+@enduml
