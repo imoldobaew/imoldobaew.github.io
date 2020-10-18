@@ -11,9 +11,9 @@
 
 ## Class diagram
 [Текст](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab1/class_diagram.txt) и
-[рисунок](https://raw.githubusercontent.com/imoldobaew/imoldobaew.github.io/main/Lab1/Скриншот%2018-10-2020%20182846.pngJ-https://raw.githubusercontent.com/imoldobaew/imoldobaew.github.io/main/Lab1/Скриншот%2018-10-2020%20182846.png диаграммы классов
+[рисунок](https://raw.githubusercontent.com/imoldobaew/imoldobaew.github.io/main/Lab1/Скриншот%2018-10-2020%20182846.pngJ-http://www.plantuml.com/plantuml/png/JSwn2i8m4CRnkNcAevE2J-1Ksz6bk3Z7os52qrovk-0Wlhk1EhZ--VZn3MfUhAxPwPBAviMlWDchmjjreyVbALnBc3Ypm3qc8zTTHFYrbp6tIHko19B_z76xqb-JOQH2qeDNc1iBlmJ6dDN1nBp0OHOE5KrFS2DC6ntFy61HZDQic0819i5CRg0Isjyl диаграммы классов
  
-![none](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab1/Скриншот%2018-10-2020%20182846.pngJ-https://raw.githubusercontent.com/imoldobaew/imoldobaew.github.io/main/Lab1/Скриншот%2018-10-2020%20182846.png
+![none](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab1/Скриншот%2018-10-2020%20182846.pngJ-http://www.plantuml.com/plantuml/png/JSwn2i8m4CRnkNcAevE2J-1Ksz6bk3Z7os52qrovk-0Wlhk1EhZ--VZn3MfUhAxPwPBAviMlWDchmjjreyVbALnBc3Ypm3qc8zTTHFYrbp6tIHko19B_z76xqb-JOQH2qeDNc1iBlmJ6dDN1nBp0OHOE5KrFS2DC6ntFy61HZDQic0819i5CRg0Isjyl
 ## Лабораторная 2
 
 ## Лабораторная 3
