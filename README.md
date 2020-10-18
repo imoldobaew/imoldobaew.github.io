@@ -11,10 +11,10 @@
 
 ## Class diagram
 [Текст](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab1/class_diagram.txt) и
-[рисунок](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab1/Скриншот%2018-10-2020%20182846.pngJ-https://raw.githubusercontent.com/imoldobaew/imoldobaew.github.io/main/Lab1/Скриншот%2018-10-2020%20182846.png диаграммы классов
+[диаграммы классов](https://raw.githubusercontent.com/imoldobaew/imoldobaew.github.io/main/Lab1/Скриншот%2018-10-2020%20182846.png)
  
 ![none](https://raw.githubusercontent.com/imoldobaew/imoldobaew.github.io/main/Lab1/Скриншот%2018-10-2020%20182846.png)<br>
-[диаграммы классов](https://raw.githubusercontent.com/imoldobaew/imoldobaew.github.io/main/Lab1/Скриншот%2018-10-2020%20182846.png)
+
 ## Лабораторная 2
 
 ## Лабораторная 3
