@@ -15,6 +15,12 @@
  
 ![none](https://raw.githubusercontent.com/imoldobaew/imoldobaew.github.io/main/Lab1/Скриншот%2018-10-2020%20182846.png)<br>
 
+## Usecase diagram
+ [Текст](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab1/usecase_diagram.txt) и
+ [рисунок](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab1/usecase_diagram.png) диаграммы прецедентов
+ 
+![none](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab1/usecase_diagram.png)
+
 ## Лабораторная 2
 
 ## Лабораторная 3
