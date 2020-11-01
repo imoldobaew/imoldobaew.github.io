@@ -25,7 +25,7 @@
 
 ## IDEF0 diagram
 
-Контексная:
+Контексnная:
 ![none](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab2/Работа%20ресторана.png)
 
 На диаграмме изображен процесс работы ресторана
