@@ -40,7 +40,15 @@ A1 Менеджер получает на вход отзывы клиентов
 
 А4 Посетитель получает свой заказ. Оставляет отзыв и грязную посуду.
 
+##DFD-диаграмма (Блок:Управлять):
+![none](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab2/DFD.png)
+Менеджер получает отзывы и заносит их в базу данных через форму редактирования заказа.
 
+##Usecase diagramm
+[Текст](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab2/Class_Diagram.txt) и
+[рисунок](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab2/uml.png) диаграммы прецедентов
+
+![none](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab2/uml.png)
 ## Лабораторная 3
 
 ## Лабораторная 4
