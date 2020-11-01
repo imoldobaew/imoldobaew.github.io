@@ -26,11 +26,11 @@
 ## IDEF0 diagram
 
 Контексная:
-![none](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab2/Idef0.png)
+![none](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab2/Работа%20ресторана.png)
 
 На диаграмме изображен процесс работы ресторана
 
-![none](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab2/Работа%20ресторана.png)
+![none](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab2/Idef0.png)
 
 A1 Менеджер получает на вход отзывы клиентов. А на выходе получаются новые заказы и деньги. 
 
@@ -40,11 +40,11 @@ A1 Менеджер получает на вход отзывы клиентов
 
 А4 Посетитель получает свой заказ. Оставляет отзыв и грязную посуду.
 
-##DFD-диаграмма (Блок:Управлять):
+## DFD-диаграмма (Блок:Управлять):
 ![none](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab2/DFD.png)
 Менеджер получает отзывы и заносит их в базу данных через форму редактирования заказа.
 
-##Usecase diagramm
+## Usecase diagramm
 [Текст](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab2/Class_Diagram.txt) и
 [рисунок](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab2/uml.png) диаграммы прецедентов
 
