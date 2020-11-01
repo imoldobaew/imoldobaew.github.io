@@ -23,7 +23,7 @@
 
 ## Лабораторная 2
 
-#IDEF0 diagram
+IDEF0 diagram
 
 Контексная:
 ![none](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab2/Idef0.png)
