@@ -51,9 +51,16 @@ A1 Менеджер получает на вход отзывы клиентов
 ![none](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab2/uml.png)
 
 ## Лабораторная 3
-## Диаграмма последовательности - [Текст](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab3/Er.txt)
+## Диаграмма последовательности - 
 ![none](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab3/Скриншот%2005-11-2020%20210158.png)
+Менеджер создаёт заказ сборщику через веб-приложение, а заготовщик через интерфейс веб-приложения на своей стороне принимает заказ.
 
+## Er-диаграмма
+
+[Текст](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab3/Er.txt) и
+ [рисунок](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab3/Скриншот%2005-11-2020%20212332.png) диаграммы классов
+ 
+ ![none](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab3/Скриншот%2005-11-2020%20212332.png)
 ## Лабораторная 4
 
 ## Лабораторная 5
