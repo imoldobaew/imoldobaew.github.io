@@ -49,7 +49,10 @@ A1 Менеджер получает на вход отзывы клиентов
 [рисунок](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab2/uml.png) диаграммы прецедентов
 
 ![none](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab2/uml.png)
+
 ## Лабораторная 3
+## Диаграмма последовательности - [Текст](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab3/Er.txt)
+![none](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab3/Скриншот%2005-11-2020%20210158.png)
 
 ## Лабораторная 4
 
