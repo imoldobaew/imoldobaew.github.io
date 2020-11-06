@@ -1,69 +1,13 @@
-# Отчет о лабораторных работах
-# студент группы [ИДБ-17-06](https://github.com/stankin/design-part-1/wiki/list-idb-17-06) Молдобаев И.С.
+# [ИДБ-17-06](https://github.com/stankin/design-part-1/wiki/list-idb-17-06) Молдобаев Исламбек
 
-## Лабораторная 1
+## Домашнее задание по [семинару 1](https://github.com/stankin/design-part-1/wiki/sem1), [семинару 2](https://github.com/stankin/design-part-1/wiki/sem2)
 
-Предложение: Готовить борщ
+## [Отчет](https://github.com/imoldobaew/imoldobaew.github.io/wiki/Лабораторные-работы-1-3) по лабораторным работам 1-3
 
-![none](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab1/Скриншот%2018-10-2020%20172056.png)
+## Домашние задания по [семинарам 3-4](https://github.com/imoldobaew/imoldobaew.github.io/wiki/Семинары-3-4)
 
-Предложение: Повар готовит борщ по рецепту из продуктов с помощью кухонных инструментов
+## Отчет по лабораторным работам 4-6
 
-## Class diagram
-[Текст](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab1/class_diagram.txt) и
-[диаграммы классов](https://raw.githubusercontent.com/imoldobaew/imoldobaew.github.io/main/Lab1/Скриншот%2018-10-2020%20182846.png)
- 
-![none](https://raw.githubusercontent.com/imoldobaew/imoldobaew.github.io/main/Lab1/Скриншот%2018-10-2020%20182846.png)<br>
-
-## Usecase diagram
- [Текст](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab1/usecase_diagram.txt) и
- [рисунок](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab1/usecase_diagram.png) диаграммы прецедентов
- 
-![none](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab1/usecase_diagram.png)
-
-## Лабораторная 2
-
-## IDEF0 diagram
-
-Контексnная:
-![none](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab2/Работа%20ресторана.png)
-
-На диаграмме изображен процесс работы ресторана
-
-![none](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab2/Idef0.png)
-
-A1 Менеджер получает на вход отзывы клиентов. А на выходе получаются новые заказы и деньги. 
-
-А2 Заготовщик получает заказ в виде инструкции а на вход получает нужные ресурсы. Исходя из заказа подготавливает нужные продукты и кухонные инструменты на выход.
-
-А3 Повар получает заказ в виде инструкции, продукты и инструменты полученные от заготовщика. Готовит по рецепту и выдает заказ посетителю.
-
-А4 Посетитель получает свой заказ. Оставляет отзыв и грязную посуду.
-
-## DFD-диаграмма (Блок:Управлять):
-![none](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab2/DFD.png)
-Менеджер получает отзывы и заносит их в базу данных через форму редактирования заказа.
-
-## Usecase diagramm
-[Текст](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab2/Class_Diagram.txt) и
-[рисунок](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab2/uml.png) диаграммы прецедентов
-
-![none](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab2/uml.png)
-
-## Лабораторная 3
-## Диаграмма последовательности 
-![none](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab3/Скриншот%2005-11-2020%20210158.png)
-
-Менеджер создаёт заказ сборщику через веб-приложение, а заготовщик через интерфейс веб-приложения на своей стороне принимает заказ.
-
-## Er-диаграмма
-
-[Текст](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab3/Er.txt) и
- [рисунок](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab3/Скриншот%2005-11-2020%20212332.png) диаграммы классов
- 
- ![none](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Lab3/Скриншот%2005-11-2020%20212332.png)
- 
- Заказ является записью в БД, которая относится к информационным потокам, и состоит из: Времени, Ингридиентов и Инструментов.
-
+## Рефераты: [разработанный](https://github.com/stankin/design-part-1/wiki/exam01-1) и [проверенный](https://github.com/stankin/design-part-1/wiki/exam05-4)
 
 
