@@ -46,13 +46,13 @@
 
 **Допустимые виды хранилищ и их размещение:** <файлы, директории, память устройства>
 
-* A31 Автоматизация процесса А31
+* A11 Автоматизация процесса А11
 
-![A31](myrep\a31.jpg)
+![A11](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/04_A11.png)
 
-* A32 Автоматизация процесса А32
+* A12 Автоматизация процесса А12
 
-![A32](myrep\a32.jpg)
+![A12]https://github.com/imoldobaew/imoldobaew.github.io/blob/main/05_A12.png)
 
 ### 4. Описание выбранного процесса [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате прецедента (Use Case) [✋](https://github.com/stankin/design-part-2/wiki/LR-4)
 
