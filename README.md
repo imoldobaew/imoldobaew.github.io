@@ -27,12 +27,15 @@
 
 * A0 (диаграмма верхнего уровня)
 
-![A0](myrep\a0.jpg)
+![A0](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/02_A0.png)
+
+* A1 (декомпозиция процесса/процессов внутренней среды)
+
+![A1](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/03_A1.png)
 
 * A3 (декомпозиция процесса/процессов внутренней среды)
 
-![A3](myrep\a3.jpg)
-
+![A3](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/06_A3.png)
 ...
 
 ### 3. Функциональное моделирование программных и информационных средств (DFD) [✋](https://github.com/stankin/design-part-2/wiki/LR-2)
