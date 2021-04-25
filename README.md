@@ -58,7 +58,7 @@
 
 Диаграмма [UML Use Case](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/txt/Uml%20Case)
 
-[blah](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/imoldobaew/imoldobaew.github.io/main/txt/Uml%20Case)
+![blah](http://www.plantuml.com/plantuml/uml/XP8nJiD044NxFSKeVGgIr2W55rav2x68lMYzwUCWKI1eE00fkC22Od0S6rzXzaRyjGjmWTmadlbldZmZBpChZTqc6v7TnkcTD3AXHASwMXkTAB9cgyH6NLkocanyixQqYesARAnJ8MHajQ497_YRp_w9l_3_mSxlkGZrH8XjfYAPAGe_5oGpm6_S-XqxW6TW3PTS48hIx_pUtoC8fWQc4t65ikO2FCh9m3RhROUGmdCC2lxyDROXy3a66tO878K7yhb_wA1Yg9ltkXViu22eCNS4TmA_xzG5Hcb-DKNmxXyHLGWSm78eMlIYLuWQv1Nu-i-caA3JOjqSQTVZclmpT3dQtTj2Z3lYUlyTbgRJo_wauyXi79cF8mknLEaAdyaF)
 
 **4.1 Идентификатор прецедента:** ???
 
