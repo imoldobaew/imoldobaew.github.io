@@ -52,7 +52,7 @@
 
 * A12 Автоматизация процесса А12
 
-![A12]https://github.com/imoldobaew/imoldobaew.github.io/blob/main/05_A12.png)
+![A12](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/05_A12.png)
 
 ### 4. Описание выбранного процесса [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате прецедента (Use Case) [✋](https://github.com/stankin/design-part-2/wiki/LR-4)
 
