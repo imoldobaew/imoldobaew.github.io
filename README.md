@@ -57,7 +57,7 @@
 ### 4. Описание выбранного процесса [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате прецедента (Use Case) [✋](https://github.com/stankin/design-part-2/wiki/LR-4)
 
 Диаграмма UML Use Case
-![p4] (https://raw.githubusercontent.com/okoff/okoff.github.io/master/oop/uml-4.txt)
+![p4](https://raw.githubusercontent.com/okoff/okoff.github.io/master/oop/uml-4.txt)
 
 **4.1 Идентификатор прецедента:** ???
 
