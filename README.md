@@ -23,7 +23,7 @@
 
 * A-0 (контекстная диаграмма)
 
-![A-0](myrep\a-0.jpg)
+![A-0](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/01_A0.png)
 
 * A0 (диаграмма верхнего уровня)
 
