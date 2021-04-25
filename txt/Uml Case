@@ -1,0 +1,16 @@
+@startuml
+skinparam monochrome true
+left to right direction
+
+actor "Пользователь"
+
+usecase case1 as "Управление виртуальной камерой"
+usecase case2 as "Передвижение персонажа на сцене"
+usecase case3 as "Взаимодействие с 3D-объектами"
+usecase case4 as "Ознакомление с описанием экспонатов"
+
+Пользователь --> case1
+Пользователь --> case2
+Пользователь --> case3
+Пользователь --> case4
+@enduml
