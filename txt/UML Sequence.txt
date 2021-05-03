@@ -1,0 +1,30 @@
+
+
+@startuml
+skinparam monochrome true
+
+actor Пользователь as user
+participant "Система" as system
+database "База данных ассетов" as db
+
+user-> system : Запуск системы
+activate system
+system -> db : Запрос на подключение к БД
+activate db
+db -> system : Создание подключенния к БД ассетов
+loop
+  
+  db -> system : Добавление ассета на сцену
+end
+loop
+  user-> system : Взаимодействие с 3D-объектом
+ 
+  system -> system : выполнение преобразований над ассетом
+  
+end
+system -> db : Запрос на отключение от БД
+db -> system : Отключение от БД ассетов
+deactivate db 
+system -> user: Выход из системы
+deactivate system
+@enduml
