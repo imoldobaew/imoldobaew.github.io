@@ -140,7 +140,7 @@
 
 * **Описываемый объект:** <комплект поставки>
 
-* **Диаграмма UML Component:**
+* **Диаграмма [UML Component](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/txt/UML%20Sequence.txt ):**
 ![p7](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/UML%20Sequence.png)
 
 ### 8. Демонстрация реализации (личная страница)
