@@ -124,7 +124,7 @@
 
 * **Описываемый объект:** <программа, модуль, сообщение, база данных...>
 
-* **Диаграмма UML Class:**
+* **Диаграмма [UML Class](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/txt/UML%20Sequence.txt ):**
 ![p5](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/<user/user.github.io/master/<path><file>)
 
 ### 6. Описание алгоритма [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате UML (Sequence) [✋](https://github.com/stankin/design-part-2/wiki/LR-6)
@@ -132,6 +132,8 @@
 * **Описываемые процессы и потоки данных:** A13
 
 * **Диаграмма UML Sequence:**
+
+
 ![none](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/UML%20Sequence.png)
 
 ### 7. Описание состава [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате UML (Component) [✋](https://github.com/stankin/design-part-2/wiki/LR-7)
