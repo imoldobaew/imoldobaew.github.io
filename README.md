@@ -132,14 +132,14 @@
 * **Описываемые процессы и потоки данных:** ???
 
 * **Диаграмма UML Sequence:**
-![p6](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/<user/user.github.io/master/<path><file>)
+![none](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Uml%20Case.png)
 
 ### 7. Описание состава [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате UML (Component) [✋](https://github.com/stankin/design-part-2/wiki/LR-7)
 
 * **Описываемый объект:** <комплект поставки>
 
 * **Диаграмма UML Component:**
-![p7](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/<user/user.github.io/master/<path><file>)
+![p7](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/UML%20Sequence.png)
 
 ### 8. Демонстрация реализации (личная страница)
 
