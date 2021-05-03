@@ -129,10 +129,10 @@
 
 ### 6. Описание алгоритма [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате UML (Sequence) [✋](https://github.com/stankin/design-part-2/wiki/LR-6)
 
-* **Описываемые процессы и потоки данных:** ???
+* **Описываемые процессы и потоки данных:** A13
 
 * **Диаграмма UML Sequence:**
-![none](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Uml%20Case.png)
+![none](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/UML%20Sequence.png)
 
 ### 7. Описание состава [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате UML (Component) [✋](https://github.com/stankin/design-part-2/wiki/LR-7)
 
