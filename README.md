@@ -60,9 +60,9 @@
 
 ![A11](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/04_A11.png)
 
-* A12 Автоматизация процесса А12
+* A13 Автоматизация процесса А13
 
-![A12](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/05_A13.png)
+![A13](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/05_A13.png)
 
 ### 4. Описание выбранного процесса [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате прецедента (Use Case) [✋](https://github.com/stankin/design-part-2/wiki/LR-4)
 
