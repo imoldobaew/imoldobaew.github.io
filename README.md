@@ -135,7 +135,7 @@
 
 * **Описываемые процессы и потоки данных:** A13
 
-* **Диаграмма [UML Sequence][https://github.com/imoldobaew/imoldobaew.github.io/blob/main/txt/UML%20Sequence.txt]:**
+* **Диаграмма [UML Sequence](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/txt/UML%20Sequence.txt):**
 
 ![none](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/UML%20Sequence.png)
 
