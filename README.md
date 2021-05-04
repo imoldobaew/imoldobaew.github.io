@@ -125,13 +125,15 @@
 * **Описываемый объект:** Система визуализации трехмерной сцены музея промышленных достижений
 
 * **Диаграмма [UML Class](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/txt/UML%20Sequence.txt ):**
+
+
 ![none](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/ERD%20Class.png)
 
 ### 6. Описание алгоритма [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате UML (Sequence) [✋](https://github.com/stankin/design-part-2/wiki/LR-6)
 
 * **Описываемые процессы и потоки данных:** A13
 
-* **Диаграмма UML Sequence[https://github.com/imoldobaew/imoldobaew.github.io/blob/main/txt/UML%20Sequence.txt]:**
+* **Диаграмма [UML Sequence][https://github.com/imoldobaew/imoldobaew.github.io/blob/main/txt/UML%20Sequence.txt]:**
 
 ![none](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/UML%20Sequence.png)
 
