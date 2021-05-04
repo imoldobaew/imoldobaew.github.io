@@ -35,7 +35,7 @@
 
 * A3 (декомпозиция процесса/процессов внутренней среды)
 
-![A3](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/06_A3.png)
+![A3](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/04_A3.png)
 
 
 ### 3. Функциональное моделирование программных и информационных средств (DFD) [✋](https://github.com/stankin/design-part-2/wiki/LR-2)
@@ -62,7 +62,7 @@
 
 * A12 Автоматизация процесса А12
 
-![A12](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/05_A12.png)
+![A12](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/05_A13.png)
 
 ### 4. Описание выбранного процесса [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате прецедента (Use Case) [✋](https://github.com/stankin/design-part-2/wiki/LR-4)
 
