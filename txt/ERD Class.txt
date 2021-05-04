@@ -1,0 +1,34 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Flow as "Поток"
+
+class Input as "Входной"
+class Output as "Выходной"
+class Control as "Управления"
+
+class Information as "Информационный"
+class Information1 as "Информационный"
+class Information2 as "Информационный"
+
+class 3D_objects as "Ассеты"
+class Scene as "Визуализированная сцена"
+class Scripts as "Скрипты"
+
+hide members
+hide circle
+hide methods
+
+Flow <|-- Input
+Flow <|-- Output
+Flow <|-- Control
+Input <|-- Information
+Information <|-- 3D_objects
+Output <|-- Information1
+Information1 <|-- Scene
+Control <|-- Information2
+Information2 <|-- Scripts
+@enduml
