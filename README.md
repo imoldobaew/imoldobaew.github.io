@@ -133,15 +133,16 @@
 
 * **Диаграмма UML Sequence:**
 
-
 ![none](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/UML%20Sequence.png)
 
 ### 7. Описание состава [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате UML (Component) [✋](https://github.com/stankin/design-part-2/wiki/LR-7)
 
-* **Описываемый объект:** <комплект поставки>
+* **Описываемый объект:** Структура программных средств системы
 
-* **Диаграмма [UML Component](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/txt/UML%20Sequence.txt ):**
-![p7](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/UML%20Sequence.png)
+* **Диаграмма [UML Component](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/txt/UML%20Component.txt):**
+
+
+![none](https://github.com/imoldobaew/imoldobaew.github.io/blob/main/UML%20Component.png)
 
 ### 8. Демонстрация реализации (личная страница)
 
